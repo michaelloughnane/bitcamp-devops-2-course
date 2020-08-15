@@ -1,0 +1,18 @@
+title: BitCamp-DevOps-2
+description: >-
+  A course based off of GitHub Training Team's [Continuous Integration
+  Course](https://lab.github.com/githubtraining/github-actions:-continuous-integration).
+template:
+  repo: bitcamp-devops-2-template
+  name: bitcamp-devops-2
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
