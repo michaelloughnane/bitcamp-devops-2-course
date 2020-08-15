@@ -1,7 +1,6 @@
 title: BitCamp-DevOps-2
 description: >-
-  A course based off of GitHub Training Team's Continuous Integration
-  Course.
+  An introduction to Continuous Integration (CI) through GitHub Actions.
 template:
   repo: bitcamp-devops-2-template
   name: bitcamp-devops-2
