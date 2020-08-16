@@ -11,7 +11,7 @@ It's now time to use a community-created action. The action we'll use is [pullre
 
 Let's see if you can use this action on your own. 
 
-**If you'd like a hint, submit a comment on this pull request with the word "hint".**
+**If you're unsure of how to do it, submit a comment on this pull request with the word "hint" for the solution. Try it first though!**
 <br/><br/>
 
 ### Here's some tips to get you going:

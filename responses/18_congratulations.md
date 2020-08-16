@@ -11,4 +11,4 @@ Nice work, you did it! Your workflows now contain:
 
 ## What's next?
 
-There's so much more you can do with continuous integration, and you have a solid start. Now...[what will you learn next]({{ host }}/courses)?
+Next up, we can look at Continuous Deployment, or CD.
