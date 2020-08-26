@@ -1,6 +1,6 @@
 # Running - and failing - workflow
 
-The workflow ran! But it failed :sob:. But, that's OK. Every time CI fails, it's an opportunity to learn from what's causing it. By running CI with GitHub Actions, we have access to the logs for the attempted build. These are found:
+The workflow ran! But it failed. But that's OK! Every time CI fails, it's an opportunity to learn from what's causing it. By running CI with GitHub Actions, we have access to the logs for the attempted build. These are found:
 - In the [Actions]({{ actionsUrl }}) tab
 - In the merge box for this pull request, by clicking on "Details".
 

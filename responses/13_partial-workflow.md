@@ -18,9 +18,10 @@ GitHub Actions can run multiple workflows for different event triggers. Let's cr
 ### :keyboard: Activity: Add a new workflow file to automate the team's review process
 
 1. Create a [new file]({{ fileUrl }}), `.github/workflows/approval-workflow.yml`, on this branch
-1. Enter a name for your workflow in the new file, something like:
+2. Enter a name for your workflow in the new file, something like:
     ```yaml
-    name: Team awesome's approval workflow
+    name: Michael's approval workflow
     ```
-
+  (replace Michael with your own name if you'd like!)
+  
 I'll respond when you commit to this branch.

@@ -1,6 +1,6 @@
 # Welcome
 
-In this repository, we'll be diving into the world of Continuous Integration. **Continuous Integration**, or **CI**, can benefit your projects and change how you work on GitHub. If you're new to Continuous Integration, you may be thinking, "What exactly is it, and do I need it in my project?"
+In this repository, we'll be diving into the world of Continuous Integration. **Continuous Integration**, or **CI**, can benefit your projects and change how you work on GitHub.
 
 ### What is CI? Why should you care?
 
@@ -21,9 +21,7 @@ Choices around CI that will work best for your project depend on many factors, i
 
 ### Using CI and Learning Lab
 
-In other courses, you may have noticed that some actions take me longer to respond to than others. In this course, many of the actions will be related to builds. Those builds sometimes take longer to build, up to several minutes. Don't be concerned if I take a few minutes to respond, or if I respond too quickly. Sometimes, I'll let you know what the build will say before it finishes! Please wait for the builds to finish before moving on to your next step.
-
-If you aren't already familiar, it may be a good idea to go through the [Introduction to GitHub Learning Lab](https://lab.github.com/githubtraining/introduction-to-github).
+In other courses, you may have noticed that some actions take me longer to respond to than others. In this course, many of the actions will be related to builds. Those builds sometimes take longer to build, up to several minutes. Don't be concerned if I take a few minutes to respond, or if I respond too quickly. Please wait for the builds to finish before moving on to your next step.
 
 ## Step 1: Use a templated workflow
 

@@ -2,7 +2,7 @@
 
 The `jobs:` block defines the core component of an Actions workflow. Workflows are made of jobs, and our template workflow defines a single job with the identifier `build`.
 
-Every job also needs a specific host machine on which to run, the `runs-on:` field is how we specify it. The template workflow is running the `build` job in the latest version of Ubuntu, a Linux-based operating system.
+Every job also needs a specific host machine on which to run - the `runs-on:` field is how we specify it. The template workflow is running the `build` job in the latest version of Ubuntu, a Linux-based operating system.
 
 To learn more about the fields discussed here, see:
 - [Workflow syntax for GitHub Actions: `jobs:`](https://help.github.com/en/articles/workflow-syntax-for-github-actions#jobs) on GitHub Help 

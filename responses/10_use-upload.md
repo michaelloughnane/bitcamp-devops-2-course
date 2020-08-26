@@ -19,7 +19,7 @@ To upload artifacts to the artifact storage, we can use an action built by GitHu
 _You can follow the manual steps below, or accept the suggestion in the following comment._
 
 1. Edit [your workflow file]({{ fileUrl }})
-1. Add a step to your `build` job that uses the `upload-artifacts` action.
+2. Add a step to your `build` job that uses the `upload-artifacts` action.
     ```yaml
       build:
         runs-on: ubuntu-latest
@@ -34,6 +34,6 @@ _You can follow the manual steps below, or accept the suggestion in the followin
               name: webpack artifacts
               path: public/
     ```
-1. Commit your change to this branch
+3. Commit your change to this branch
 
 I'll respond when you commit to this branch.

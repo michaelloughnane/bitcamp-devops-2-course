@@ -61,7 +61,7 @@ This will allow us to separate the build and test functions of our workflow into
           CI: true
     ```
 
-<details><summary>If you'd like to copy and paste the full workflow file instead, click here to see it in its entirety.</summary>
+<details><summary>Here's the code in its entirety - you can use it to compare with what you wrote!</summary>
 
 ```yaml
 name: Node CI
